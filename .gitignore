@@ -1,0 +1,6 @@
+#compilações
+/dist
+/node_modules
+
+#banco de dados
+/database
